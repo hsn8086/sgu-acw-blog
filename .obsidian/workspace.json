@@ -11,10 +11,14 @@
             "id": "659d429b9186441e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "10000-置顶.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "10000-置顶"
             }
           }
         ]
@@ -176,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "717567b85e8a0c48",
+  "active": "659d429b9186441e",
   "lastOpenFiles": [
     "10000-置顶.md",
     "3-奖牌柜.md",
